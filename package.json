@@ -1,0 +1,13 @@
+{
+  "name": "pi-maintainer-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A throwaway repo for trying the event-driven Pi maintainer.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
